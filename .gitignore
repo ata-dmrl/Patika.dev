@@ -1,6 +1,3 @@
-/node_modules
-/Ders
-
 # Ignore React_101 specific folders
 React_101/node_modules/
 React_101/Ders/
